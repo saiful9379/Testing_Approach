@@ -1,0 +1,26 @@
+{
+    "a": {
+        "_content": "hello",
+        "_type": "<class 'str'>"
+    },
+    "b": {
+        "_content": 123,
+        "_type": "<class 'int'>"
+    },
+    "c": {
+        "d": {
+            "_content": "True",
+            "_type": "<class 'str'>"
+        },
+        "e": {
+            "f": {
+                "_content": [
+                    1,
+                    2,
+                    3
+                ],
+                "_type": "<class 'list'>"
+            }
+        }
+    }
+}
